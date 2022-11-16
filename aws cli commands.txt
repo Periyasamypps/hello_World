@@ -1,0 +1,30 @@
+
+
+
+
+periyasamypps123@gmail.com
+Dr    !!
+
+120896262040 
+Seller:
+AWS Inc. 
+Account Name:
+Periyasamy 
+
+
+serverless config credentials --provider aws --key AKIASUNMWCQTXNZ7RLD6  --secret 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
+
+sls  create --template aws-python  --path  hello-world-python
+
+sls deploy -v
+
+
+cloudshell   
+
+sudo  yum install -y bind-utils
+
+
+nslookup  test.periii.com from hosted zone a record
+
+
+dig  test.periii.com from hosted zone a record
